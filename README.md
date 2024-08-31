@@ -1,2 +1,1 @@
-# hello-world
-his repository is for practicing the GitHub Flow.
+Machine learning, Supervised model and Jupiter Notebooks 

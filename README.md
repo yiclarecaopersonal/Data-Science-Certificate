@@ -1,1 +1,1 @@
-Machine learning, Supervised model and Jupiter Notebooks 
+Supervised Learning, Unsupervised Learning, Big Data and Deep Learning Notebooks 
